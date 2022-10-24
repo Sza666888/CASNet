@@ -14,7 +14,7 @@ PSL: https://cloud.minesparis.psl.eu/index.php/s/JhIxgyt0ALgRZ1O/authenticate
 Our datas: Uploading, to be published later.
 
 The network main framework refers to PointNet++. Replace pointnet2_utils.py content in models with the code provided by us to run.
-
+PointNet++：https://github.com/yanx27/Pointnet_Pointnet2_pytorch
 ```python
 python train_semseg.py
 ```
